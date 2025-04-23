@@ -36,7 +36,7 @@
 
 ## Links
 ```markdown
-[Link Name](https://www.example.com)
+[Link name](https://example.com)
 ```
 
 ## Images
