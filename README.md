@@ -15,7 +15,7 @@ This repository contains quick reference sheets for:
 
 Structure:
 ```
-Cheat-Sheets/
+Programming-Cheat-Sheets/
 ├── languages/
 │   ├── kotlin.md
 │   ├── python.md
