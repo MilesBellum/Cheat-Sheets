@@ -10,7 +10,7 @@
 ###### Title 6
 ```
 
-## Estilos de texto
+## Text styles
 ```markdown
 *italic* or _italic_  
 **bold** or __bold__  
@@ -25,10 +25,6 @@
 - Item
 * Item
 + Item
-
-1. First
-2. Second
-3. Third
 ```
 
 ### Ordered
