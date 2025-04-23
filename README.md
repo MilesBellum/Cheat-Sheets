@@ -14,7 +14,7 @@ This repository contains quick reference sheets for:
 - Git
 
 Structure:
-
+```
 Cheat-Sheets/
 ├── languages/
 │   ├── kotlin.md
@@ -31,6 +31,6 @@ Cheat-Sheets/
 │   └── markdown.md
 ├── LICENSE
 └── README.md
-
+```
 
 Each file is in Markdown format and covers the essentials for each technology.
